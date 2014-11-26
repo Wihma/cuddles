@@ -1,0 +1,25 @@
+.flashMessage{
+	min-width: 150px;
+	max-width: 350px;
+	display: block;
+	padding: 5px;
+
+	font-size: 24px;
+	font-weight: bold;
+}
+.error{
+	color:white;
+	background-color: red;
+}
+.success{
+	color:white;
+	background-color: green;
+}
+.warning{
+	color:white;
+	background-color: orange;
+}
+.notice{
+	color:white;
+	background-color: #999900;
+}

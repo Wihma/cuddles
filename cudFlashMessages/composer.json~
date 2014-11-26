@@ -1,0 +1,22 @@
+{
+    "name": "cuddles/cudrss",    
+    "type": "library",
+    "description": "PHP classes for RSS handeling",
+    "keywords": ["module", "framework", "mvc", "micro", "education"],
+    "homepage": "http://www.marcwihlstrand.se",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikael Roos",
+            "email": "marc.wihlstrand@gmail.com",
+            "homepage": "http://mikaelroos.se",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "Mos\\": "src/" }
+    }
+}
